@@ -1,0 +1,14 @@
+#ignore env file 
+/myenv
+
+#ignore design file
+
+
+
+#ignore config file
+/src/config.in
+
+
+*.pyc            # Ignore all files with the .pyc extension
+*.log            # Ignore all files with the .log extension
+*.exe            # Ignore all files with the .exe extension
